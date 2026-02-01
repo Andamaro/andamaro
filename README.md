@@ -1,12 +1,12 @@
-# 👋 Hola, soy Andrés Cruz Guzmán
+# Soy Andrés Cruz Guzmán
 
-🎓 Estudiante universitario de Ingeniería en Sistemas / Computación  
-💻 Interesado en desarrollo de software, matemáticas y tecnología  
-📚 En constante aprendizaje
+Estudiante universitario de Ingeniería en Sistemas / Computación  
+Interesado en desarrollo de software, matemáticas y tecnología  
+En constante aprendizaje
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante universitario con interés en el desarrollo de software, la ingeniería en sistemas y la resolución de problemas mediante la tecnología.  
 Me gusta aprender de forma práctica, construir proyectos y mejorar continuamente mis habilidades técnicas.
@@ -19,7 +19,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 - **Lenguajes:**
   - Java
@@ -39,7 +39,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ---
 
-## 📂 Proyectos
+##  Proyectos
 
 Aquí encontrarás:
 - Proyectos académicos
@@ -57,9 +57,12 @@ Algunos repositorios destacados:
 - 🔹 **FracVisual**  
   Proyecto enfocado en la visualización y comprensión de fracciones de forma didáctica.
 
+- 🔹 **Sismógrafo**  
+  Plataforma enfocada en la predicción de daños ocasionados pos sismos en el estado de Oaxaca.
+
 ---
 
-## 📈 Objetivos
+##  Objetivos
 
 - Seguir mejorando mis habilidades como desarrollador
 - Aprender buenas prácticas de ingeniería de software
@@ -68,11 +71,11 @@ Algunos repositorios destacados:
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - GitHub: [https://github.com/Andamaro](https://github.com/Andamaro)
 - Correo: [andres.cguzman26@gmail.com](mailto:andres.cguzman26@gmail.com)
 
 ---
 
-⭐ Gracias por visitar mi perfil
+ Gracias por visitar mi perfil
